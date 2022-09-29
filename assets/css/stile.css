@@ -67,7 +67,7 @@ main section:nth-child(4)  {
 main section:nth-child(4) div {
     border: 1px solid #dee1e3;
     text-align: center;
-    margin: 0px 8px 32px;
+    margin: 0 16px 32px;
 }
 main section:nth-child(4) div img {
     width: 100%;
@@ -116,6 +116,7 @@ hr {
 }
 footer p:last-child {
     margin-top: 20px;
+    font-size: 16px;
 }
 
 
